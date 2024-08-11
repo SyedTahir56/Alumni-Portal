@@ -1,0 +1,13 @@
+#btn{
+    height: 50px; /* Set height to 50px */
+  width: 100px; /* Set width to 150px */
+  border: 2px solid #007bff; /* Set border with a color */
+  border-radius: 5px; /* Optional: rounded corners */
+  background-color: #007bff; /* Button background color */
+  color: white; /* Text color */
+  font-size: 16px; /* Text size */
+  cursor: pointer; /* Change cursor on hover */
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,21 @@
+{
+    "pictures": [
+      {
+        "id": 1,
+        "imageUrl": "./images/j1.jpg",
+        "caption": "Picture 1 - Description or title."
+      },
+      {
+        "id": 2,
+        "imageUrl": "./images/j2.jpg",
+        "caption": "Picture 2 - Description or title."
+      },
+      {
+           "id": 3,
+        "imageUrl": "./images/c1.jpg",
+        "caption": "Picture 3 - Description or title."
+      }
+      
+    ]
+  }
+  

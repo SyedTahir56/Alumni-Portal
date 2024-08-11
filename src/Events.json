@@ -1,0 +1,12 @@
+{
+    "news": [
+      {
+        "title": "Event Title 1",
+        "date": "Date for Event 1."
+      },
+      {
+        "title": "Event Title 2",
+        "date": "Date for Event 2."
+      }
+    ]
+  }
